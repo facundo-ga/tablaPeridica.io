@@ -2159,7 +2159,8 @@ h1 {
 
 .search-container {
   position: relative;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
+  text-align: center;
 }
 
 #search-input {
