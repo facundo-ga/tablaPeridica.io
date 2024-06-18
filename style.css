@@ -2198,3 +2198,13 @@ h1 {
 
   
 }
+
+@media screen and (max-width: 600px) {
+  .search-container {
+    text-align: left; /* Alinea a la izquierda en pantallas pequeñas */
+  }
+
+  #search-input {
+    max-width: 100%; /* Ocupa el máximo ancho disponible en pantallas pequeñas */
+  }
+}
